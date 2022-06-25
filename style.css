@@ -63,6 +63,7 @@ body {
   top: 30%;
   left: 26%;
   padding: 0 11px;
+  margin-bottom: 32px;
 }
 
 .slider-value {
@@ -99,4 +100,15 @@ body {
 .btnApply {
   margin-top: 12px;
   margin-bottom: -5px;
+}
+
+.footer {
+  font-family: sans-serif;
+  color: #adb5bd;
+  text-align: center;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+  /* Height of the footer*/
+  height: 40px;
 }
